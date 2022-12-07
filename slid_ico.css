@@ -1,0 +1,22 @@
+
+.bottomMenu_hide {
+    position: fixed;
+    top:0%;
+    transition: all .5s;
+    opacity:0;
+}
+.bottomMenu_show {
+    position: fixed;
+    top:0%;
+
+    transition: all .5s;
+    opacity:1;
+}
+
+#icon-side-pic{
+    width: 45%;
+    margin-top: 10px;
+    margin-left: 10px;
+    /* padding: 5px; */
+    
+}
