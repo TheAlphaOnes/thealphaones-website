@@ -21,12 +21,9 @@
     
 }
 @media only screen and (max-width: 600px){
-#icon-side-pic{
-    width: 45%;
-    margin-top: 500px;
-    margin-left: 10px;
-    /* padding: 5px; */
-    
+    #icon-side-pic{
+margin-top: 14%;
+
 }
 }
 /* @media (max-width: 479px) */
