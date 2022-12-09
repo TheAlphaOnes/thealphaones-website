@@ -20,10 +20,9 @@
     /* padding: 5px; */
     
 }
-@media all and (max-width: 600px){
+@media all (max-width: 600px){
     #icon-side-pic{
 margin-top: 14%;
-
 }
 }
 /* @media (max-width: 479px) */
